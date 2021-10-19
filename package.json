@@ -1,0 +1,11 @@
+
+{
+    "name": "front",
+    "version": "0.1.0",
+    "private": true,
+    "scripts": {
+        "postinstall": "cd front; npm install",
+        "build": "cd front; npm run build",
+        "start": "cd front; npm run serve"
+    }
+}
